@@ -1,5 +1,5 @@
 #1. Create a greeting for your program.
-print("Welcome to band generator\n")
+print("Welcome to band generator\n ")
 #2. Ask the user for the city that they grew up in.
 city = input("What city did you grow up in? ")
 #3. Ask the user for the name of a pet.
